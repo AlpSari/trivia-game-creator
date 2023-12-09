@@ -32,10 +32,10 @@ Being inspired by my favourite TV series [`Friends`](https://en.wikipedia.org/wi
       python -m venv venv
     ```
 
-    For Windows, activate the virtual environment by:
+    From Windows command prompt (i.e., cmd), activate the virtual environment by:
 
     ```bash
-    ./venv/Scripts/activate
+    venv\Scripts\activate
     ```
 
 3. Install the required dependencies using pip:
