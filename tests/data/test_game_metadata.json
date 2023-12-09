@@ -1,0 +1,27 @@
+{
+    "Question Type": {
+      "Multiple Choice": {
+        "question":"Multiple Choice Question",
+        "answer":"Right Answer",
+        "additional text": [
+          "A)",
+          "B)",
+          "C)",
+          "D)",
+          "E)"
+          ]
+      },
+      "Yes - No": {
+        "question":"YesNo Question",
+        "answer":"YesNo Answer"
+      },
+      "Fill in the blanks": {
+        "question":"Fill in the Blanks Question",
+        "answer":"Fill in the Blanks Answer"
+    },
+    "Open-ended / Custom": {
+        "question":"Custom Question",
+        "answer":"Custom Answer"
+    }
+    }
+  }

@@ -1,0 +1,17 @@
+{
+  "Question Type-Long": {
+    "Multiple Choice": {
+        "question":"Question",
+        "answer":"Answer-MC",
+        "additional text": [
+          "MultipleChoice-A",
+          "MultipleChoice-B",
+          "MultipleChoice-C"
+        ]
+    },
+    "True-False": {
+        "question":"Question",
+        "answer":"Answer-TF"
+    }
+  }
+}
